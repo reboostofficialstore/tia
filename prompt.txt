@@ -1,0 +1,5 @@
+"Hai! Saya punya project Next.js + Supabase. 
+baca README.md untuk pengenalan project
+TOLONG BACA docs/AI-CONTEXT.md dulu untuk memahami project ini.
+Setelah itu baca docs/latest-progress.md untuk status terkini.
+Lalu kerjakan ...
