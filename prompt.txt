@@ -2,4 +2,11 @@
 baca README.md untuk pengenalan project
 TOLONG BACA docs/AI-CONTEXT.md dulu untuk memahami project ini.
 Setelah itu baca docs/latest-progress.md untuk status terkini.
+🚨 Yang Perlu Diperhatikan:
+
+Jangan hardcode app name, URLs, atau credentials
+Selalu gunakan API routes, jangan panggil database langsung dari frontend
+Implement proper error handling dan loading states
+Testing strategy - unit tests untuk functions kritis
+
 Lalu kerjakan ...
